@@ -1,0 +1,13 @@
+Réalisation d'une "maquette/site" de présentation pour l'évènement UpToDev - Devenir développeur
+
+Temps de réalisation: +/- 5 jours.
+
+Images libre de droit sur banque d'images.
+
+Langages utilisés: Html5 + Css3.
+
+Pas difficultés particulières rencontrées lors du processus de création.
+Quelques erreurs de synthaxes qui m'ont fait perdre quelques heures, rien de méchant.
+Quelques indécisions sur le choix des styles et des fonts.
+
+==> Reste à améliorer la taille des images pour un meilleur rendu
